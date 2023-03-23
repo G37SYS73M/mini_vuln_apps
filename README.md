@@ -2,4 +2,4 @@
 This repo contains small application to practice White Box Testing and writing your own exploit codes.
 
 ## Developer
-### Soummya Mukgopadhyay @G37SYS73M
+### Soummya Mukhopadhyay @G37SYS73M
